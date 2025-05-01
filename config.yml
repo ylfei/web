@@ -57,6 +57,9 @@ content:
         - name: IT天空
           description: 以系统封装技术与驱动技术为主的综合性IT站点
           url: https://www.itsk.com/
+        - name: 学习通登录
+          description: 超星学习通登录
+          url: https://passport2.chaoxing.com
         - name: 今日热榜
           description: 新闻热搜榜
           url: https://tophub.today/c/news
@@ -219,22 +222,14 @@ content:
           url: https://huajiakeji.com/
         - name: Crx4Chrome插件下载
           description: 用户可以直接在Chrome商店中下载和安装谷歌浏览器插件
-          url: http://www.crx4.com/
-        - name: Chrome/谷歌浏览器插件
-          description: 分享好用靠谱的，Chrome/谷歌浏览器插件
-          url: https://www.chrome666.com/
-        - name: 扩展迷
-          description: 提供Chrome商店/谷歌应用商店里各类Chrome插件下载
-          url: https://www.extfans.com/    
+          url: http://www.crx4.com
         - name: Greasy Fork
           description: Greasy Fork - 安全、实用的用户脚本大全
-          url: https://greasyfork.org/zh-CN/scripts?language=all
+          url: https://greasyfork.org
         - name: Crx搜搜
           description: 浏览器扩展商店
           url: https://www.crxsoso.com/
-        - name: CrxDL
-          description: 浏览器扩展离线安装包
-          url: https://crxdl.com/
+      
     - name: PDF转换
       sites:
         - name: PDF2GO
@@ -291,6 +286,4 @@ content:
         - name: 新媒体导航
           description: 工具推荐服务，是一个优秀、绿色、安全、好用的新媒体助手
           url: http://123.meibp.com/
-        - name: 学术屋
-          description: 学术屋导航
-          url: http://sci.xueshuwu.cn/
+       
