@@ -69,9 +69,9 @@ content:
         - name: my导航
           description: 网站软件收藏
           url: http://yanglf.ysepan.com/
-        - name: blog
-          description: 博客
-          url: https://ylfei.github.io/
+        - name: 个人博客
+          description: 个人博客
+          url: https://ylfei-github-io.pages.dev
         - name:  蛙蛙工具
           description:  便捷的在线工具网站
           url: https://www.iamwawa.cn/
